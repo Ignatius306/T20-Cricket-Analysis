@@ -2,7 +2,12 @@
 > To pick top 11 players based on the t20 worldcup tournament results, which was held in Oct-Nov 2022
 
 # Table of Content
-1. (Objective)[# Objective]
-
+1. [Objective](#Objective)
+2. [Requirement scoping](#Requirement-Scoping]
+3.
 
 ## 1. Objective
+ To create a team that will score 180 runs on an average and will defend 150 runs
+ 
+## 2. Requirement Scoping
+
