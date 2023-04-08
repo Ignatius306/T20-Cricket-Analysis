@@ -4,7 +4,8 @@
 # Table of Content
 1. [Objective](#Objective)
 2. [Requirement scoping](#Requirement-Scoping)
-3.
+3. [Data Collection](#Data-Collection)
+4.
 
 ## 1. Objective
  To create a team that will score 180 runs on an average and will defend 150 runs
@@ -37,8 +38,18 @@ The players are categorized into Openers, Middle Order, Finishers, All rounders,
 </p>
 
 ### Fast Bowlers
-* To select 3 fast bowlers based on their performance
+* To select 3 fast bowlers based on their performance.
 <p align ="center">
 <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Fastbowlers.png"> <br>Fig: Fast Bowlers Parameter
 </p>
+
+## 3. Data Collection
+Data Collection using web scrapping from [espn website](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134)
+Used Brightdata tool to scrap the data from the website. We get all the information in the form of csv files.
+
+## 4. Data cleaning and processing
+In jupyter notebook all the files are cleaned and then processed.
+
+## 5. Data Visualisation
+Using powerBI tool top 11 players are selected. 
 
