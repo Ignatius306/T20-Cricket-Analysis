@@ -33,12 +33,12 @@ The players are categorized into Openers, Middle Order, Finishers, All rounders,
 ### All Rounder
 * To select two players, mostly of spinners with bowling economy and decent strike rate.
 <p aling ="center">
-<img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t203.png"><br>Fig: All Rounder Parameter
+<img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t203.png"> <br>Fig: All Rounder Parameter
 </p>
 
 ### Fast Bowlers
 * To select 3 fast bowlers based on their performance
 <p aling ="center">
-<img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Fastbowlers.png"><br>Fig: Fast Bowlers Parameter
+<img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Fastbowlers.png"> <br>Fig: Fast Bowlers Parameter
 </p>
 
