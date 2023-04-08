@@ -44,12 +44,19 @@ The players are categorized into Openers, Middle Order, Finishers, All rounders,
 </p>
 
 ## 3. Data Collection
-Data Collection using web scrapping from [espn website](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134)
-Used Brightdata tool to scrap the data from the website. We get all the information in the form of csv files.
+Data Collection using web scrapping from [espn website](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2022-23-1298134).
+
+Used Brightdata tool to scrap the data from the website. We get all the information in the form of json files.
 
 ## 4. Data cleaning and processing
 In jupyter notebook all the files are cleaned and then processed.
+<p align ="center">
+<img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/python.png"> <br>Fig: Data processing
+</p>
 
 ## 5. Data Visualisation
 Using powerBI tool top 11 players are selected. 
+<p align ="center">
+<img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/powerbi.png"> <br>Fig: Cricket Analysis
+</p>
 
