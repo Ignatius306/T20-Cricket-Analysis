@@ -19,14 +19,19 @@ The players are categorized into Openers, Middle Order, Finishers, All rounders,
 </p>
 
 ### Middle Order
-* To select 3 anchors or the middle order batsman
+* To select 3 anchors or the middle order batsman.
 <p align="center">
- <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Screenshot%202023-04-08%20172307.png"><br>Fig: Middle Order parameter
+ <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Screenshot%202023-04-08%20172307.png"><br>Fig: Middle Order Parameter
  </p>
 
 ### Finishers
-* To select one player for the finisher role capable to carry the match if the middle order collapses
+* To select one player for the finisher role capable to carry the match if the middle order collapses.
 <p align="center">
- <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t202.png"><br>Fig: Finisher parameter
+ <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t202.png"><br>Fig: Finisher Parameter
  </p>
  
+### All Rounder
+* To select two players, mostly of spinners with bowling economy and decent strike rate.
+<p aling ="center">
+ <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t203.png"><br>Fig: All Rounder Parameter
+ </p>
