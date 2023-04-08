@@ -12,6 +12,6 @@
 ## 2. Requirement Scoping
 The players are categorized into Openers, Middle Order, Finishers, All rounders, Specialist fast bowlers.
 <p align="center">
-<img src="https://github.com/Ignatius306/.png">
+<img src="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t201.png">
 </p>
 
