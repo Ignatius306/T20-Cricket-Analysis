@@ -3,11 +3,15 @@
 
 # Table of Content
 1. [Objective](#Objective)
-2. [Requirement scoping](#Requirement-Scoping]
+2. [Requirement scoping](#Requirement-Scoping)
 3.
 
 ## 1. Objective
  To create a team that will score 180 runs on an average and will defend 150 runs
  
 ## 2. Requirement Scoping
+The players are categorized into Openers, Middle Order, Finishers, All rounders, Specialist fast bowlers.
+<p align="center">
+<img src="https://github.com/Ignatius306/.png">
+</p>
 
