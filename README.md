@@ -5,7 +5,8 @@
 1. [Objective](#Objective)
 2. [Requirement scoping](#Requirement-Scoping)
 3. [Data Collection](#Data-Collection)
-4.
+4. [Data Cleaning and Processing](#Data-Cleaning-and-Processing)
+5. [Data Visualisation](#Data-Visualisation)
 
 ## 1. Objective
  To create a team that will score 180 runs on an average and will defend 150 runs
@@ -48,7 +49,7 @@ Data Collection using web scrapping from [espn website](https://www.espncricinfo
 
 Used Brightdata tool to scrap the data from the website. We get all the information in the form of json files.
 
-## 4. Data cleaning and processing
+## 4. Data Cleaning and Processing
 In jupyter notebook all the files are cleaned and then processed.
 <p align ="center">
 <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/python.png"> <br>Fig: Data processing
