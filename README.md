@@ -3,7 +3,7 @@
 
 # Table of Content
 1. [Objective](#Objective)
-2. [Requirement scoping](#Requirement-Scoping)
+2. [Requirement Scoping](#Requirement-Scoping)
 3. [Data Collection](#Data-Collection)
 4. [Data Cleaning and Processing](#Data-Cleaning-and-Processing)
 5. [Data Visualisation](#Data-Visualisation)
