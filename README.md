@@ -13,10 +13,11 @@
 The players are categorized into Openers, Middle Order, Finishers, All rounders, Specialist fast bowlers.
 
 ### Openers
+* To select 2 best opening batsman based on the parameter decided.
 <p align="center">
 <img src="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/t201.png"><br>Fig:Openers parameter
 </p>
 
 ### Middle Order
 <p align="center">
- <img src =""
+ <img src ="https://github.com/Ignatius306/T20-Cricket-Analysis/blob/main/images/Screenshot%202023-04-08%20172307.png"><br>Fig: Middle Order parameter
